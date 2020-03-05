@@ -16,7 +16,18 @@
 				<key>midiMessageType</key>
 				<integer>1</integer>
 				<key>output</key>
-				<dict/>
+				<dict>
+					<key>controlType</key>
+					<string>control</string>
+					<key>midiData</key>
+					<integer>74</integer>
+					<key>midiMaxValue</key>
+					<integer>39</integer>
+					<key>midiMessageType</key>
+					<integer>3</integer>
+					<key>midiMinValue</key>
+					<integer>39</integer>
+				</dict>
 			</dict>
 			<dict>
 				<key>keyPath</key>
@@ -28,7 +39,18 @@
 				<key>midiMessageType</key>
 				<integer>1</integer>
 				<key>output</key>
-				<dict/>
+				<dict>
+					<key>controlType</key>
+					<string>control</string>
+					<key>midiData</key>
+					<integer>74</integer>
+					<key>midiMaxValue</key>
+					<integer>38</integer>
+					<key>midiMinValue</key>
+					<integer>38</integer>
+					<key>midiMessageType</key>
+					<integer>3</integer>
+				</dict>
 			</dict>
 			<dict>
 				<key>keyPath</key>
@@ -121,6 +143,19 @@
 				<integer>29</integer>
 				<key>midiMessageType</key>
 				<integer>1</integer>
+				<key>output</key>
+				<dict>
+					<key>controlType</key>
+					<string>control</string>
+					<key>midiData</key>
+					<integer>74</integer>
+					<key>midiMaxValue</key>
+					<integer>43</integer>
+					<key>midiMinValue</key>
+					<integer>43</integer>
+					<key>midiMessageType</key>
+					<integer>3</integer>
+				</dict>
 			</dict>
 			<dict>
 				<key>keyPath</key>
@@ -201,6 +236,19 @@
 				<integer>55</integer>
 				<key>midiMessageType</key>
 				<integer>1</integer>
+				<key>output</key>
+				<dict>
+					<key>controlType</key>
+					<string>control</string>
+					<key>midiData</key>
+					<integer>74</integer>
+					<key>midiMaxValue</key>
+					<integer>36</integer>
+					<key>midiMinValue</key>
+					<integer>36</integer>
+					<key>midiMessageType</key>
+					<integer>3</integer>
+				</dict>
 			</dict>
 			<dict>
 				<key>keyPath</key>
@@ -211,6 +259,19 @@
 				<integer>57</integer>
 				<key>midiMessageType</key>
 				<integer>1</integer>
+				<key>output</key>
+				<dict>
+					<key>controlType</key>
+					<string>control</string>
+					<key>midiData</key>
+					<integer>74</integer>
+					<key>midiMaxValue</key>
+					<integer>64</integer>
+					<key>midiMinValue</key>
+					<integer>64</integer>
+					<key>midiMessageType</key>
+					<integer>3</integer>
+				</dict>
 			</dict>
 			<dict>
 				<key>keyPath</key>
@@ -222,7 +283,18 @@
 				<key>midiMessageType</key>
 				<integer>1</integer>
 				<key>output</key>
-				<dict/>
+				<dict>
+					<key>controlType</key>
+					<string>control</string>
+					<key>midiData</key>
+					<integer>74</integer>
+					<key>midiMaxValue</key>
+					<integer>17</integer>
+					<key>midiMinValue</key>
+					<integer>17</integer>
+					<key>midiMessageType</key>
+					<integer>3</integer>
+				</dict>
 			</dict>
 			<dict>
 				<key>keyPath</key>
@@ -234,7 +306,18 @@
 				<key>midiMessageType</key>
 				<integer>1</integer>
 				<key>output</key>
-				<dict/>
+				<dict>
+					<key>controlType</key>
+					<string>control</string>
+					<key>midiData</key>
+					<integer>74</integer>
+					<key>midiMaxValue</key>
+					<integer>19</integer>
+					<key>midiMinValue</key>
+					<integer>19</integer>
+					<key>midiMessageType</key>
+					<integer>3</integer>
+				</dict>
 			</dict>
 			<dict>
 				<key>keyPath</key>
@@ -246,7 +329,18 @@
 				<key>midiMessageType</key>
 				<integer>1</integer>
 				<key>output</key>
-				<dict/>
+				<dict>
+					<key>controlType</key>
+					<string>control</string>
+					<key>midiData</key>
+					<integer>74</integer>
+					<key>midiMaxValue</key>
+					<integer>21</integer>
+					<key>midiMinValue</key>
+					<integer>21</integer>
+					<key>midiMessageType</key>
+					<integer>3</integer>
+				</dict>
 			</dict>
 			<dict>
 				<key>keyPath</key>
@@ -258,7 +352,18 @@
 				<key>midiMessageType</key>
 				<integer>1</integer>
 				<key>output</key>
-				<dict/>
+				<dict>
+					<key>controlType</key>
+					<string>control</string>
+					<key>midiData</key>
+					<integer>74</integer>
+					<key>midiMaxValue</key>
+					<integer>23</integer>
+					<key>midiMinValue</key>
+					<integer>23</integer>
+					<key>midiMessageType</key>
+					<integer>3</integer>
+				</dict>
 			</dict>
 			<dict>
 				<key>keyPath</key>
@@ -281,6 +386,17 @@
 				<integer>1</integer>
 				<key>modifier</key>
 				<true/>
+				<key>output</key>
+				<dict>
+					<key>controlType</key>
+					<string>control</string>
+					<key>midiData</key>
+					<integer>75</integer>
+					<key>midiMaxValue</key>
+					<integer>17</integer>
+					<key>midiMessageType</key>
+					<integer>3</integer>
+				</dict>
 			</dict>
 			<dict>
 				<key>keyPath</key>
@@ -293,6 +409,17 @@
 				<integer>1</integer>
 				<key>modifier</key>
 				<true/>
+				<key>output</key>
+				<dict>
+					<key>controlType</key>
+					<string>control</string>
+					<key>midiData</key>
+					<integer>75</integer>
+					<key>midiMaxValue</key>
+					<integer>19</integer>
+					<key>midiMessageType</key>
+					<integer>3</integer>
+				</dict>
 			</dict>
 			<dict>
 				<key>keyPath</key>
@@ -305,6 +432,17 @@
 				<integer>1</integer>
 				<key>modifier</key>
 				<true/>
+				<key>output</key>
+				<dict>
+					<key>controlType</key>
+					<string>control</string>
+					<key>midiData</key>
+					<integer>75</integer>
+					<key>midiMaxValue</key>
+					<integer>21</integer>
+					<key>midiMessageType</key>
+					<integer>3</integer>
+				</dict>
 			</dict>
 			<dict>
 				<key>keyPath</key>
@@ -317,6 +455,17 @@
 				<integer>1</integer>
 				<key>modifier</key>
 				<true/>
+				<key>output</key>
+				<dict>
+					<key>controlType</key>
+					<string>control</string>
+					<key>midiData</key>
+					<integer>75</integer>
+					<key>midiMaxValue</key>
+					<integer>23</integer>
+					<key>midiMessageType</key>
+					<integer>3</integer>
+				</dict>
 			</dict>
 			<dict>
 				<key>keyPath</key>
@@ -639,6 +788,17 @@
 				<integer>1</integer>
 				<key>modifier</key>
 				<true/>
+				<key>output</key>
+				<dict>
+					<key>controlType</key>
+					<string>control</string>
+					<key>midiData</key>
+					<integer>76</integer>
+					<key>midiMaxValue</key>
+					<integer>39</integer>
+					<key>midiMessageType</key>
+					<integer>3</integer>
+				</dict>
 			</dict>
 			<dict>
 				<key>keyPath</key>
@@ -652,9 +812,21 @@
 				<key>modifier</key>
 				<true/>
 			</dict>
+			<dict>
+				<key>keyPath</key>
+				<string>turntable1</string>
+				<key>midiChannel</key>
+				<integer>0</integer>
+				<key>midiData</key>
+				<integer>81</integer>
+				<key>midiMessageType</key>
+				<integer>3</integer>
+				<key>modifier</key>
+				<true/>
+			</dict>
 		</array>
 		<key>editor</key>
-		<string>djay-3.3.2</string>
+		<string>djayPro-1.0</string>
 		<key>endpointName</key>
 		<string>SC2900</string>
 		<key>schemeVersion</key>
