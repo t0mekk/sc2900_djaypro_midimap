@@ -469,7 +469,7 @@
 			</dict>
 			<dict>
 				<key>keyPath</key>
-				<string>musicLibrary.load1</string>
+				<string>musicLibrary.load2</string>
 				<key>midiChannel</key>
 				<integer>1</integer>
 				<key>midiData</key>
@@ -593,16 +593,7 @@
 				<key>rotarySensitivity</key>
 				<real>4</real>
 			</dict>
-			<dict>
-				<key>keyPath</key>
-				<string>turntable2.scratchingMode</string>
-				<key>midiChannel</key>
-				<integer>1</integer>
-				<key>midiData</key>
-				<integer>4</integer>
-				<key>midiMessageType</key>
-				<integer>1</integer>
-			</dict>
+
 			<dict>
 				<key>controlType</key>
 				<string>rotary-64</string>

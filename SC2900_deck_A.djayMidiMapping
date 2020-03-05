@@ -593,16 +593,7 @@
 				<key>rotarySensitivity</key>
 				<real>4</real>
 			</dict>
-			<dict>
-				<key>keyPath</key>
-				<string>turntable1.scratchingMode</string>
-				<key>midiChannel</key>
-				<integer>0</integer>
-				<key>midiData</key>
-				<integer>4</integer>
-				<key>midiMessageType</key>
-				<integer>1</integer>
-			</dict>
+
 			<dict>
 				<key>controlType</key>
 				<string>rotary-64</string>
