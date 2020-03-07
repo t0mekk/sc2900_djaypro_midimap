@@ -4,6 +4,14 @@
 	<dict>
 		<key>USBID</key>
 		<integer>357453848</integer>
+		<key>editor</key>
+		<string>djayPro-1.0</string>
+		<key>endpointName</key>
+		<string>SC2900-B</string>
+		<key>schemeVersion</key>
+		<integer>1</integer>
+		<key>version</key>
+		<integer>0</integer>
 		<key>controls</key>
 		<array>
 			<dict>
@@ -816,13 +824,5 @@
 				<true/>
 			</dict>
 		</array>
-		<key>editor</key>
-		<string>djayPro-1.0</string>
-		<key>endpointName</key>
-		<string>SC2900</string>
-		<key>schemeVersion</key>
-		<integer>1</integer>
-		<key>version</key>
-		<integer>0</integer>
 	</dict>
 </plist>
